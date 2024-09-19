@@ -5,7 +5,6 @@ How to customize ASP.NET Core dependency injection (DI) to use a different DI co
 - Using a different DI container ([Autofac][1])
 - Exploring the ConfigureServices method
 - Using a different ServiceProvider
-- Introducing Scrutor.
 
 ## Getting Started
 
