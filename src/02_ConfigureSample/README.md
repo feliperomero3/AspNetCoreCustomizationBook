@@ -6,3 +6,8 @@ How to customize the ASP.NET configuration to employ different ways to configure
 - Using typed configurations
 - Configuration using Initialization (INI) files
 - Configuration providers
+
+## Getting Started
+
+1. Open this folder in Visual Studio Code.
+1. Run the project by pressing `F5`.

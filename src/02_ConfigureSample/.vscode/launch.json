@@ -15,8 +15,10 @@
         "pattern": "\\bNow listening on:\\s+(https?://\\S+)"
       },
       "env": {
-        "ASPNETCORE_ENVIRONMENT": "Development"
-      }
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "ASPNETCORE_ERRORDETAILS": "true"
+      },
+      "console": "integratedTerminal",
     },
     {
       "name": ".NET Core Attach",
