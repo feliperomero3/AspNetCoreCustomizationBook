@@ -8,13 +8,13 @@ features and some more WebAPI topics, where you can do some magic tricks.
 
 ## Prerequisites
 
-1. .NET SDK 6.0.420
+- .NET SDK 6.0.420
 
 ## Getting Started
 
 1. Clone the repository.
 1. Change to the `src` directory.
-1. Change to the directory of the project you want to explore.
+1. Change to the directory of the project you want to explore to follow further steps.
 
 ## Projects
 
