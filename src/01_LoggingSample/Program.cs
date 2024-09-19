@@ -1,4 +1,5 @@
 using LoggingSample;
+using NLog.Web;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -11,6 +12,8 @@ var config = new ColoredConsoleLoggerConfiguration
 };
 
 builder.Logging.AddProvider(new ColoredConsoleLoggerProvider(config));
+
+builder.WebHost.UseNLog();
 
 var app = builder.Build();
 
