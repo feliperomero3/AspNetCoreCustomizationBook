@@ -18,7 +18,12 @@ features and some more WebAPI topics, where you can do some magic tricks.
 
 ## Projects
 
-- [01 - Customizing the Logging](./src/01_LoggingSample)
+| Sample                                | Directory                                              |
+|---------------------------------------|--------------------------------------------------------|
+| 01 - Customizing the Logging          | [./src/01_LoggingSample](./src/01_LoggingSample)       |
+| 02 - Customizing App Configuration    | [./src/02_ConfigureSample](./src/02_ConfigureSample)   |
+| 03 - Customizing Dependency Injection | [./src/03_DiSample](./src/03_DiSample)                 |
+|||
 
 ## License
 
