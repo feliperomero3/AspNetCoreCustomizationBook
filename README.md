@@ -23,7 +23,7 @@ features and some more WebAPI topics, where you can do some magic tricks.
 | 01 - Customizing the Logging          | [./src/01_LoggingSample](./src/01_LoggingSample)       |
 | 02 - Customizing App Configuration    | [./src/02_ConfigureSample](./src/02_ConfigureSample)   |
 | 03 - Customizing Dependency Injection | [./src/03_DiSample](./src/03_DiSample)                 |
-|||
+| 04 - Customizing HTTPS with Kestrel   | [./src/04_HttpSample](./src/04_HttpSample)             |
 
 ## License
 
