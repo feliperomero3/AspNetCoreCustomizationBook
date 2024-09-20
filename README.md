@@ -18,14 +18,15 @@ features and some more WebAPI topics, where you can do some magic tricks.
 
 ## Projects
 
-| Sample                                | Directory                                                |
-|---------------------------------------|----------------------------------------------------------|
-| 01 - Customizing the Logging          | [./src/01_LoggingSample](./src/01_LoggingSample)         |
-| 02 - Customizing App Configuration    | [./src/02_ConfigureSample](./src/02_ConfigureSample)     |
-| 03 - Customizing Dependency Injection | [./src/03_DiSample](./src/03_DiSample)                   |
-| 04 - Customizing HTTPS with Kestrel   | [./src/04_HttpSample](./src/04_HttpSample)               |
-| 05 - Configuring WebHostBuilder       | [./src/05_HostBuilderConfig](./src/05_HostBuilderConfig) |
-| 06 - Different Hosting Models         | [./src/06_ExploreHosting](./src/06_ExploreHosting)       |
+| Sample                                | Directory                                                    |
+|---------------------------------------|--------------------------------------------------------------|
+| 01 - Customizing the Logging          | [./src/01_LoggingSample](./src/01_LoggingSample)             |
+| 02 - Customizing App Configuration    | [./src/02_ConfigureSample](./src/02_ConfigureSample)         |
+| 03 - Customizing Dependency Injection | [./src/03_DiSample](./src/03_DiSample)                       |
+| 04 - Customizing HTTPS with Kestrel   | [./src/04_HttpSample](./src/04_HttpSample)                   |
+| 05 - Configuring WebHostBuilder       | [./src/05_HostBuilderConfig](./src/05_HostBuilderConfig)     |
+| 06 - Different Hosting Models         | [./src/06_ExploreHosting](./src/06_ExploreHosting)           |
+| 07 - Hosted Service                   | [./src/07_HostedServiceSample](./src/07_HostedServiceSample) |
 
 ## License
 
